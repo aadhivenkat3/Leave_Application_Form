@@ -1,0 +1,17 @@
+button{
+	border:none;
+	background-color:blue;
+	color:white;
+	cursor:pointer;
+	margin:center;
+	padding:5px 5px;
+	padding-left:15px;
+	padding-right:15px;
+}
+.head{
+	background-color:gray;
+	padding:10px 10px;
+}
+input[type=text],input[type=email],input[type=tel]{
+	width:25%;
+}
